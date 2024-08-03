@@ -1,0 +1,11 @@
+:root{
+    --mainColor:hsla(14, 21%, 42%, 0.934);
+    --secondaryColor:#7c503b;
+    --borderColor:#dac7c7;
+    --mainText:rgb(252, 252, 252);
+    --secondaryText:#342c2c;
+    --themeDotBorder:#fefefe;
+    --previewBg:rgb(251,249,243,0.8);
+    --btnbg-color: #8b4c2beb;
+    --btntxt-color: #f5f5f5;
+}
